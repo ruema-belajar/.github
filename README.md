@@ -1,0 +1,2 @@
+# .github
+ini spesial loh!
